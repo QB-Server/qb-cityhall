@@ -38,10 +38,4 @@ Config.AvaiableJobs = {
         description = "Rent a garbage truck and collect the garbage at the indicated points throughout the city.",
         gpsCoords = vector3(-68.01, -942.47, 29.34),
     },
-    ["bus"] = {
-        title = "Bus Driver",
-        salary = 600,
-        description = "Rent a bus and transport passengers to various stops throughout the city.",
-        gpsCoords = vector3(-68.55, -1037.28, 28.26),
-    },
 }
