@@ -39,7 +39,7 @@ Config.AvaiableJobs = {
         gpsCoords = vector3(-68.01, -942.47, 29.34),
     },
     ["lumberjack"] = {
-        title = "lumberjack",
+        title = "Lumberjack",
         salary = 250,
         description = "Chop down trees and sell wood for quick cash.",
         gpsCoords = vector3(-773.23, 5596.76, 33.49),
