@@ -38,4 +38,10 @@ Config.AvaiableJobs = {
         description = "Rent a garbage truck and collect the garbage at the indicated points throughout the city.",
         gpsCoords = vector3(-68.01, -942.47, 29.34),
     },
+    ["lumberjack"] = {
+        title = "lumberjack",
+        salary = 250,
+        description = "Chop down trees and sell wood for quick cash.",
+        gpsCoords = vector3(-773.23, 5596.76, 33.49),
+    },
 }
